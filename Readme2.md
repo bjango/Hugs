@@ -8,16 +8,16 @@ Hugs is an entire starting point for Hugo projects, where the intention is to bu
 
 It’s what I use for all new website projects that I am building using Hugo, and I thought others may benefit from a good starting point. It took me a while to parse all the Hugo documentation and get things up and running the first time, and I think this would have helped.
 
-Hugs is free and open source, released under the [BSD license](https://github.com/bjango/Greyprint/blob/master/Help/License.md).
+Hugs is free and open source, released under the [BSD license](https://github.com/bjango/Hugs/blob/master/Help/License.md).
 
 **Download:** **[Hugs](https://github.com/bjango/Hugs/archive/master.zip)** — 1.0 ([version history](https://github.com/bjango/Hugs/blob/master/Help/Version%20History.md))
 
 ```
-            :::::::::       :::::::         ::::          ::::    :::       ::::::::        :::::::: 
-           :+:    :+:          :+:        :+: :+:        :+:+:   :+:      :+:    :+:      :+:    :+: 
-          +:+    +:+          +:+       +:+   +:+       :+:+:+  +:+      +:+             +:+    +:+  
-         +#++:++#+           +#+      +#++:++#++:      +#+ +:+ +#+      :#:             +#+    +:+   
-        +#+    +#+          +#+      +#+     +#+      +#+  +#+#+#      +#+   +#+#      +#+    +#+    
-       #+#    #+#      #+# #+#      #+#     #+#      #+#   #+#+#      #+#    #+#      #+#    #+#     
-      #########        #####       ###     ###      ###    ####       ########        ######## 
+          :::::::::       :::::::         ::::          ::::    :::       ::::::::        :::::::: 
+         :+:    :+:          :+:        :+: :+:        :+:+:   :+:      :+:    :+:      :+:    :+: 
+        +:+    +:+          +:+       +:+   +:+       :+:+:+  +:+      +:+             +:+    +:+  
+       +#++:++#+           +#+      +#++:++#++:      +#+ +:+ +#+      :#:             +#+    +:+   
+      +#+    +#+          +#+      +#+     +#+      +#+  +#+#+#      +#+   +#+#      +#+    +#+    
+     #+#    #+#      #+# #+#      #+#     #+#      #+#   #+#+#      #+#    #+#      #+#    #+#     
+    #########        #####       ###     ###      ###    ####       ########        ######## 
 ```

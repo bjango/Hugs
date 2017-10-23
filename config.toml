@@ -1,0 +1,10 @@
+baseurl       = "https://github.com/bjango/Hugs"
+languagecode  = "en-us"
+title         = "Hugs"
+uglyurls      = false
+disableKinds  = ["section", "RSS", "sitemap", "robotsTXT"]
+
+[params]
+    Title = "Title here"
+    description = "Description here."
+    author = ""
