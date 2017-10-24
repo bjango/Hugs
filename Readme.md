@@ -26,6 +26,8 @@ Hugs is free and open source, released under the [BSD license](https://github.co
 
 You can now edit `config.toml` and the contents to suit.
 
+-----
+
 ### Feedback and future plans
 
 These documents are maintained by [@marcedwards](https://twitter.com/marcedwards). If you find errors or have suggestions, I’d love to hear about them.
