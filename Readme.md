@@ -14,13 +14,17 @@ Hugs is free and open source, released under the [BSD license](https://github.co
 
 **Download:** **[Hugs](https://github.com/bjango/Hugs/archive/master.zip)** — 1.0 ([version history](https://github.com/bjango/Hugs/blob/master/Help/Version%20History.md))
 
+-----
+
 ### Help
 
-1. Install Hugo, if you haven’t done it already.
+1. [Install Hugo](http://gohugo.io/getting-started/quick-start/), if you haven’t done it already.
 2. Download Hugs.
 3. Unzip it, and copy the Hugs folder to where you want your new project (maybe rename the folder, too?).
 4. Right click `hugo-build.command` and choose Open.
-5. The project should build. You can now edit `config.toml` and the contents to suit.
+5. The project should build.
+
+You can now edit `config.toml` and the contents to suit.
 
 ```
               :::::::::     :::::::       ::::        ::::    :::     ::::::::      :::::::: 
