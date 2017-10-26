@@ -6,5 +6,5 @@ disableKinds  = ["section", "RSS", "sitemap", "robotsTXT"]
 
 [params]
     Title = "Title here"
-    description = "Description here."
+    SiteDescription = "Description here."
     author = ""

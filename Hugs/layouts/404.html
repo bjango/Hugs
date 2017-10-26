@@ -1,5 +1,7 @@
-{{ $title := "Oops!" }}
-{{ partial "header.html" . }}
+{{ define "title" }}Oops!{{ end }}
 
+{{ define "main" }}
 
-{{ partial "footer.html" . }}
+<h1>404</h1>
+
+{{ end }}

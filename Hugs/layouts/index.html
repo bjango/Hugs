@@ -1,10 +1,7 @@
-{{ $title := "Welcome to something" }}
-{{ partial "header.html" . }}
+{{ define "title" }}Welcome to something{{ end }}
+
+{{ define "main" }}
 
 <h1>This is the home page</h1>
 
-<p>
-	Link to another page: <a href="/item/1/">/item/1/</a>
-</p>
-
-{{ partial "footer.html" . }}
+{{ end }}
