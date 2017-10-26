@@ -4,7 +4,7 @@
 
 Hugs is a super simple starting point for [Hugo](http://gohugo.io) websites.
 
-Hugs is an entire, but mostly empty, Hugo project. It’s a good starting point, where the intention is to build a custom design. It contains no CSS, and only a tiny bit of HTML. However, it does include a fully set up folder structure, config.toml, partials, basic HTML templates, basic Markdown example posts, and scripts to build and run Hugo’s server.
+Hugs is an entire, but mostly empty, Hugo project. It’s a good starting point, where the intention is to build a custom design. It contains no CSS, and only a tiny bit of HTML. However, it does include a fully set up folder structure, config.toml, baseof.html, partials, basic HTML templates, basic Markdown example posts, and scripts to build and run Hugo’s server.
 
 Hugs is what I use for all new website projects that I am building using Hugo.
 
@@ -12,7 +12,7 @@ Hugs is what I use for all new website projects that I am building using Hugo.
 
 Hugs is free and open source, released under the [BSD license](https://github.com/bjango/Hugs/blob/master/Help/License.md).
 
-**Download:** **[Hugs](https://github.com/bjango/Hugs/archive/master.zip)** — 1.0 ([version history](https://github.com/bjango/Hugs/blob/master/Help/Version%20History.md))
+**Download:** **[Hugs](https://github.com/bjango/Hugs/archive/master.zip)** — 1.1 ([version history](https://github.com/bjango/Hugs/blob/master/Help/Version%20History.md))
 
 -----
 
