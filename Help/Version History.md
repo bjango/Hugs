@@ -1,5 +1,11 @@
 # Hugs version history
 
+### 1.1.1
+
+19 August 2019
+
+- Added taxonomyTerm to disableKinds.
+
 ### 1.1
 
 26 October 2017
