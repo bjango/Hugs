@@ -5,6 +5,7 @@
 	<title>{{ block "title" . }}{{ if .Title }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}{{ end }}</title>
 	<meta charset="UTF-8">
 	<meta id="description" name="description" content="{{ block "description" . }}{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.SiteDescription }}{{ end }}{{ end }}"/>
+	<link rel="stylesheet" href="/css/styles.css" />
 </head>
 
 <body>
