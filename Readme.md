@@ -4,7 +4,7 @@
 
 Hugs is a super simple starting point for [Hugo](http://gohugo.io) websites.
 
-Hugs is an entire, but mostly empty, Hugo project. It’s a good starting point, where the intention is to build a custom design. It contains no CSS, and only a tiny bit of HTML. However, it does include a fully set up folder structure, config.toml, baseof.html, partials, basic HTML templates, basic Markdown example posts, and scripts to build and run Hugo’s server.
+Hugs is an entire, but mostly empty, Hugo project. It’s a good starting point, if the intention is to build a custom design. It contains no CSS, and only a tiny bit of HTML. However, it does include a fully set up folder structure, config.toml, baseof.html, partials, basic HTML templates, basic Markdown example posts, and scripts to build and run Hugo’s server.
 
 Hugs is what I use for all new website projects that I am building using Hugo.
 
