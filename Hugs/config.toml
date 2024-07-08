@@ -2,7 +2,10 @@ baseurl       = "https://github.com/bjango/Hugs"
 languagecode  = "en-us"
 title         = "Hugs"
 uglyurls      = false
-disableKinds  = ["section", "RSS", "sitemap", "robotsTXT", "taxonomyTerm"]
+disableKinds  = ["RSS", "sitemap", "robotsTXT"]
+
+[taxonomies]
+  category = "categories"
 
 [params]
     Title = "Title here"
